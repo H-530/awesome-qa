@@ -144,6 +144,7 @@
 ## 🤖 AI in Testing (QA & AI)
 *AI agents, self-healing code, test generator bots, and LLM automation assistants.*
 
+* [agent-qa](https://www.vostride.com/) - Natural-language web, Android, and iOS testing by vostride, with persistent memidex memory, validated self-improvement, and reviewable test evidence.
 * [Mabl](https://www.mabl.com/) - Intelligent low-code SaaS testing platform with automatic self-healing capabilities.
 * [Testim](https://www.testim.io/) - AI-powered end-to-end testing with ML-driven locators and self-maintenance.
 * [Qodo (CodiumAI)](https://www.qodo.ai/) - Intelligent code analysis and test-suite generation based on context.
